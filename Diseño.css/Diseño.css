@@ -122,5 +122,21 @@ justify-content: space-around;
 /* Modificando el Footer */
 
 .titulo h1{
-    color: black;
+    color: var(--titulos);
+
+}
+
+.titulo{
+    background-color: rgba(235, 228, 130, 0.582);   
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    border-top-style: solid;
+
+    border-color: var(--texto);
+
+}
+.titulo a{
+    text-decoration: none;
+
 }
