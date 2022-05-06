@@ -118,3 +118,9 @@ display: flex;
 justify-content: space-around;
 
 }
+
+/* Modificando el Footer */
+
+.titulo h1{
+    color: black;
+}
